@@ -1,0 +1,17 @@
+{
+    "name": "glxe/yii2-captcha",
+    "description": "Rewrite yii2 captcha",
+    "type": "library",
+    "require": {
+        "php": "5.3",
+        "yiisoft/yii2": "2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "glxe",
+            "email": "597863201@qq.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
